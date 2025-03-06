@@ -5,9 +5,7 @@ const App = () => {
     <>
       <div className="Fondo flex justify-center items-center
      bg-indigo-900 h-screen w-full">
-        <Fondo>
-          
-        </Fondo>
+        <Fondo/>
       </div>
     </>
   )
